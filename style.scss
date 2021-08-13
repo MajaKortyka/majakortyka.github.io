@@ -28,6 +28,9 @@ body {
             justify-content: space-between;
         }
     }
+    main > section > * {
+        flex: 1;
+    }
     main {
         >section {
             border:$borderSize $border $borderColor;
