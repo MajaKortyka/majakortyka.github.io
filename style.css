@@ -88,17 +88,17 @@ body main > section > article {
       -ms-flex-align: center;
           align-items: center;
   color: #2fe7ff;
-  margin-left: 100px;
   margin-right: 100px;
 }
 
 body main > section > article > p {
   line-height: 50px;
+  margin-left: 100px;
 }
 
 body main > section > article > h1 {
   margin-top: 100px;
-  margin-bottom: 20px;
+  margin-left: 80px;
 }
 
 body footer {
